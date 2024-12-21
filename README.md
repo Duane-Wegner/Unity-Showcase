@@ -1,6 +1,10 @@
 # Unity-Showcase
 Unity Pathways Portfolio
 
+**Link to Unity Showcase:**
+
+https://play.unity.com/en/games/df8ba5d3-e84b-40a1-ba9e-78754dd09be1/learning-pathway
+
 
 Unity Pathways Portfolio
 Welcome to my Unity Pathways portfolio! This repository showcases the skills and projects I have developed while completing Unity's Pathways program. Through this journey, I have gained hands-on experience in creating interactive 2D and 3D games, implementing game mechanics, and mastering essential Unity tools and workflows.
